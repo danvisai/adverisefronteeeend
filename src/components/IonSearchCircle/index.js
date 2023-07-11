@@ -1,0 +1,1 @@
+export { IonSearchCircle } from "./IonSearchCircle";

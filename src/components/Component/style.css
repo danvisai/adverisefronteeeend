@@ -1,0 +1,38 @@
+.component {
+  height: 53px;
+  overflow: hidden;
+  position: relative;
+  width: 502px;
+}
+
+.component .web-development {
+  -webkit-text-stroke: 1px #00000080;
+  color: #ffffff;
+  font-family: "Ostrich Sans-Heavy", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.component .frame-3 {
+  top: -102px;
+}
+
+.component .frame-4 {
+  top: -157px;
+}
+
+.component .frame-2 {
+  top: -52px;
+}
+
+.component .frame-5 {
+  top: -209px;
+}
+
+.component .frame-1 {
+  top: -2px;
+}
